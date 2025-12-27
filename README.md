@@ -50,21 +50,29 @@ This GitHub is intentionally **curated** — fewer projects, higher signal.
 
 ---
 
-## ⭐ Featured & Upcoming Repositories
+## ⭐ Featured Repositories
 
-> These repositories represent **thinking in code**, not experiments.
+These projects represent **applied AI systems** — designed with real-world constraints, governance, and impact in mind.
 
-- **Agent Studio**  
-  Reference architecture for building, orchestrating, and governing AI agents in enterprise environments.
+- **Patent Navigator**  
+  AI-powered system for navigating and analyzing patent intelligence with traceability and governance at its core.  
+  🔗 https://github.com/KinshukON/patent-navigator
 
-- **Agentic Patterns**  
-  Design patterns for multi-agent systems, memory models, human-in-the-loop controls, and failure handling.
+- **AI Guardian**  
+  Safety-first AI framework to protect users and children from harmful, biased, or inappropriate AI-generated content.  
+  🔗 https://github.com/KinshukON/AI-Guardian
 
-- **AI Governance Playbooks**  
-  Practical governance models that map regulation, accountability, and execution into system design.
+- **EmotiSense**  
+  Hybrid neuro-symbolic emotion detection system focused on explainability, personalization, and responsible AI.  
+  🔗 https://github.com/KinshukON/emotisense
 
-- **Enterprise AI Case Studies**  
-  Architecture-level walkthroughs of real-world AI adoption challenges and solutions.
+- **AgriRescueNet**  
+  AI-driven disaster response and resilience platform for agriculture and food systems.  
+  🔗 https://github.com/KinshukON/AgriRescueNet
+
+- **FairQuote**  
+  Fairness-aware automated pricing and quotation system designed to reduce bias and improve transparency.  
+  🔗 https://github.com/KinshukON/fairquote
 
 (Repos will evolve deliberately — quality over quantity.)
 
