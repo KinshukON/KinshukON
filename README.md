@@ -56,11 +56,11 @@ These projects represent **applied AI systems** — designed with real-world con
 
 - **AOS - Agent Orchestration Studio**  
   Agent Studio is an open-source visual playground to design, run (sandbox or BYOK), trace, and export AI agents — built to learn agentic AI by building real systems.
-  🔗 [https://github.com/KinshukON/patent-navigator](https://github.com/KinshukON/agentstudio)
+  🔗 [https://github.com/KinshukON/agent-orchestration-studio](https://github.com/KinshukON/agentstudio)
 
 - **RAGOS - RAG Orchestration Studio**  
   RAG Orchestration Studio: A Control Plane for Enterprise Retrieval Architectures 
-  🔗 [https://github.com/KinshukON/patent-navigator](https://github.com/KinshukON/RAGOrchestraionStudio)
+  🔗 [https://github.com/KinshukON/rag-orchestration-studio](https://github.com/KinshukON/RAGOrchestraionStudio)
 
 - **Patent Navigator**  
   AI-powered system for navigating and analyzing patent intelligence with traceability and governance at its core.  
